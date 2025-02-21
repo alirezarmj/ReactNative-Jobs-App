@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Job",
-    "slug": "Job",
+    "slug": "Jobs",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/images/job.png",
@@ -38,7 +38,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "8fb22e71-1a3e-4e30-a781-f3d6506f72d0"
+        "projectId": "36a23d35-6f4a-476a-876c-7cce88575ab7"
       }
     }
   }
